@@ -26,6 +26,8 @@ int main() {
     // Mostrar la frase después de las modificaciones
     cout << frase << endl;
 
+// La IA ayudó a organizar el proceso de encontrar y reemplazar palabras dentro de la cadena
+
     return 0;
 }
 

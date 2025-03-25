@@ -17,5 +17,7 @@ int main() {
     // Mostrar la frase con un solo espacio entre palabras
     cout << frase << endl;
 
+ // La IA ayudó a estructurar el proceso de reemplazar las comas por espacios
+
     return 0;
 }

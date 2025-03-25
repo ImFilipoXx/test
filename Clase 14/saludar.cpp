@@ -13,5 +13,8 @@ int main() {
     // Imprimimos un saludo usando el nombre que nos dio el usuario
     cout << "¡Hola, " << nombre << "!" << endl;
 
+    // La IA ayudó a estructurar el uso de "cout" para la interacción con el usuario
+
     return 0;
 }
+

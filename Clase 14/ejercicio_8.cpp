@@ -22,5 +22,8 @@ int main() {
     cout << "Propina: $" << propina << endl;
     cout << "Total: $" << total << endl;
 
+// La IA ayudó a estructurar el flujo de cálculos y la impresión de resultados
+
+
     return 0;
 }

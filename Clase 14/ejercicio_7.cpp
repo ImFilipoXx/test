@@ -22,6 +22,8 @@ int main() {
     cout << "Propina: $" << propina << endl;
     cout << "Total: $" << total << endl;
 
+// La IA ayudó a estructurar el cálculo del impuesto, la propina y el total, así como la impresión de los resultados
+
     return 0;
 }
 

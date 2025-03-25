@@ -17,5 +17,7 @@ int main() {
 
     cout << "El área de la habitación es: " << area << " metros cuadrados." << endl;
 
+// La IA ayudó a estructurar el cálculo del área y la impresión del resultado con "cout"
+
     return 0;
 }

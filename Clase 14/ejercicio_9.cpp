@@ -22,5 +22,7 @@ int main() {
 
     cout << "El peso total del pedido es: " << pesoTotal << " gramos." << endl;
 
+ // La IA ayudó a estructurar el cálculo del peso total y la impresión del resultado sin embargo se utilizo conocimientos basicos vistos en clases anteriores
+
     return 0;
 }
